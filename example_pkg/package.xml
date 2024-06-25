@@ -6,13 +6,13 @@
   <version>0.0.1</version>
   <description>A sample ROS 2 package</description>
 
-  <maintainer email="evanp922@gmail.com">Evan Palmer</maintainer>
+  <maintainer email="radams.official1@gmail.com">John Ryu Adams</maintainer>
   <license>MIT</license>
 
-  <url type="repository">https://github.com/Robotic-Decision-Making-Lab/ros2-template.git</url>
-  <url type="bugtracker">https://github.com/Robotic-Decision-Making-Lab/ros2-template/issues</url>
+  <url type="repository">https://github.com/radamsfr/ros-playground.git</url>
+  <url type="bugtracker">https://github.com/radamsfr/ros-playground/issues</url>
 
-  <author>Evan Palmer</author>
+  <author>John Ryu Adams</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
